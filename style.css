@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    max-width: 100vw;
+    text-align: center;
+    background-color: navajowhite;
+    color: red;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.residence{
+    margin-bottom: 10px;
+}
+.head{
+    margin: 20px ;
+}
+#head-2{
+    margin: 20px 0 40px 0;
+}
+header{
+    border-bottom: double 7px;
+    margin-bottom: 30px;
+}
+.list-1 li{
+    padding-bottom: 10px;
+}
+.list-2{
+    margin-top: 50px;
+}
+.list-2 p{
+    padding-bottom: 10px;
+}
+.list-3{
+    margin-top: 50px;
+}
+.list-3 li{
+    margin-bottom: 10px;
+}
+strong{
+    color: black;
+}
+
+
+
